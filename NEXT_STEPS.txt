@@ -1,0 +1,9 @@
+NEXT STEPS
+
+1. Download and extract this ZIP on a Windows/Mac computer.
+2. Install Android Studio.
+3. Install Node.js LTS.
+4. On Windows, double-click build_android_setup_windows.bat.
+5. Android Studio opens.
+6. Click Build > Build Bundle(s) / APK(s) > Build APK(s).
+7. Send android/app/build/outputs/apk/debug/app-debug.apk to your phone and install it.

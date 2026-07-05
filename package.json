@@ -1,0 +1,16 @@
+{
+  "name": "dt-draft-hq",
+  "version": "1.0.0",
+  "description": "D&T Draft HQ Android app",
+  "private": true,
+  "scripts": {
+    "sync": "npx cap sync android",
+    "open": "npx cap open android"
+  },
+  "dependencies": {
+    "@capacitor/android": "latest",
+    "@capacitor/cli": "latest",
+    "@capacitor/core": "latest"
+  },
+  "devDependencies": {}
+}

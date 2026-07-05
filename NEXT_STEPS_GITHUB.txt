@@ -1,0 +1,10 @@
+NEXT STEPS - GITHUB APK ROUTE
+
+1. Create a free GitHub account.
+2. Create a new Public repository called dt-draft-hq.
+3. Upload everything from this folder to the repository.
+4. Go to Actions.
+5. Choose Build Android APK.
+6. Press Run workflow.
+7. When it finishes, download the artifact called DT-Draft-HQ-debug-apk.
+8. Extract it and install app-debug.apk on your phone.
